@@ -1,4 +1,4 @@
-package ex_01_java;
+package ex_01_java_basic;
 
 public class Lab003_Identifiers {
     public static void main(String[] args) {

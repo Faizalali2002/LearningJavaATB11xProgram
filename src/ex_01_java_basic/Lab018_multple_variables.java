@@ -1,4 +1,4 @@
-package ex_01_java;
+package ex_01_java_basic;
 
 public class Lab018_multple_variables {
     public static void main(String[] args) {

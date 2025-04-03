@@ -1,4 +1,4 @@
-package ex_01_java;
+package ex_01_java_basic;
 
 public class Lab010_interview_QnA2 {
     public static void main(String[] args) {

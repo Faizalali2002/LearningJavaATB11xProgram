@@ -1,4 +1,4 @@
-package ex_01_java;
+package ex_01_java_basic;
 
 public class Lab011_Boolean {
 
